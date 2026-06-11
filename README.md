@@ -50,3 +50,12 @@ Kõik töö teen WordPress Adminnis algselt ära, umbes 2-3 tundi:
 9. Siis ´ddev exec wp post list --post_type=wp_template´ abil saan iga template koodi ja copy-ida nad filedesse.
 10. theme.json korda teha.
 11. Lõpiks commitida.
+
+
+## Kokkuvõtte:
+
+Iseenesest läks wordpressis töö kõigite tempalte tegemine hästi. Setup on juba nagu käes ja käib kiiresti. 
+
+Raske oli ikkagi see theme.json fail. Kuna ma tegin põhimõtteliselt kõik disain(valisin värvid, tüpograafia ja muud) WP adminnis valmis siis ma väga ei tahnud midagi katki teha theme.jsoniga.
+
+Sujus oli template lisamine my-theme alla. See on nüüd suhteliselt lihtne nüüd.
